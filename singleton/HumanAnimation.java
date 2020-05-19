@@ -2,6 +2,7 @@ package singleton;
 import body.Body;
 public class HumanAnimation {
     private static HumanAnimation instance = new HumanAnimation();
+    private static int version = 1;
     private HumanAnimation()
     {
         System.out.println("Human Animation Created");
