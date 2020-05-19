@@ -6,7 +6,7 @@ public class LeftLeg implements ILeg
     private int width;
     private int positionx;
     private int positiony;
-    LeftLeg(int height,int width,int positionx,int positiony)
+    public LeftLeg(int height,int width,int positionx,int positiony)
     {
         this.height = height;
         this.width = width;

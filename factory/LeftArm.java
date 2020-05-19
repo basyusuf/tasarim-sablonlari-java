@@ -6,7 +6,7 @@ public class LeftArm implements IArm
     private int width;
     private int positionx;
     private int positiony;
-    LeftArm(int height,int width,int positionx,int positiony)
+    public LeftArm(int height,int width,int positionx,int positiony)
     {
         this.height = height;
         this.width = width;

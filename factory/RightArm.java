@@ -6,7 +6,7 @@ public class RightArm implements IArm
     private int width;
     private int positionx;
     private int positiony;
-    RightArm(int height,int width,int positionx,int positiony)
+    public RightArm(int height,int width,int positionx,int positiony)
     {
         this.height = height;
         this.width = width;
