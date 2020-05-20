@@ -1,7 +1,7 @@
 # Tasarım Şablonları Ödevi
 # Singleton #
-![Singleton](https://github.com/[basyusuf]/[tasarim-sablonlari-java]/blob/[master]/UML_Diagrams/SingletonPattern.png?raw=true)
+![Singleton](https://github.com/basyusuf/tasarim-sablonlari-java/blob/master/UML_Diagrams/SingletonPattern.png?raw=true)
 # Abstract Factory Pattern #
-![AbstractFactoryPattern](https://github.com/[basyusuf]/[tasarim-sablonlari-java]/blob/[master]/UML_Diagrams/AbstractFactoryPattern.png?raw=true)
+![AbstractFactoryPattern](https://github.com/basyusuf/tasarim-sablonlari-java/blob/master/UML_Diagrams/AbstractFactoryPattern.png?raw=true)
 # Prototype Pattern #
-![PrototypePattern](https://github.com/[basyusuf]/[tasarim-sablonlari-java]/blob/[master]/UML_Diagrams/PrototypePattern.png?raw=true)
+![PrototypePattern](https://github.com/basyusuf/tasarim-sablonlari-java/blob/master/UML_Diagrams/PrototypePattern.png?raw=true)
